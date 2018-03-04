@@ -1,4 +1,6 @@
 # KerasLSTM
+![lstm](images/lstm.png)
+
 Using Keras LSTM in Java. THe ipython notebook exports the weights of an LSTM
 and also exports some test for a random input sequence and the resulting output.
 The Java implementation reads the exported weights and then applies them. All
